@@ -17,6 +17,9 @@
     "eslint-plugin-prettier": "^4.0.0",
     "prettier": "^2.7.1"
   },
+  "engines": {
+    "node": "16.14"
+  },
   "dependencies": {
     "@hapi/boom": "^10.0.0",
     "cors": "^2.8.5",
